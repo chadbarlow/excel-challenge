@@ -3,11 +3,9 @@
 <p>This project focuses on analyzing a dataset of 1,000 sample crowdfunding projects to uncover hidden trends and provide insights into the factors that contribute to their success or failure.</p>
 
 ## Tools
-- Microsoft Excel
+- Microsoft Excel functions, pivot tables, and charts
 
 ## Features
-- Conditional Formatting: Applied to the outcome and percent funded columns.
-- Column Creation: New columns for percent funded, average donation, parent category, sub-category, date created conversion, and date ended conversion.
 - Pivot Tables and Stacked Column Charts: Analyzing campaigns' outcomes per category and sub-category.
 - Pivot Tables and Line Graphs: Visualizing outcomes based on launch date.
 - Crowdfunding Goal Analysis: Analyzing the relationship between goal amounts and project outcomes.
@@ -30,5 +28,4 @@ The dataset has a limited size (1,000 samples) and might not be representative o
 To enhance the analysis and extract more insights, future work could involve:
 
 - Expanding the dataset to include more samples and additional features.
-- Employing more advanced data analysis techniques, such as machine learning algorithms, to predict project outcomes.
 - Investigating the impact of other factors, such as project duration or the involvement of influential individuals, on the success or failure of crowdfunding campaigns.

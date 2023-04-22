@@ -4,7 +4,7 @@
 This project focuses on analyzing a dataset of 1,000 sample crowdfunding projects to uncover hidden trends and provide insights into the factors that contribute to their success or failure.
 
 ## Tools
-Microsoft Excel
+- Microsoft Excel
 
 ## Features
 - Conditional Formatting: Applied to the outcome and percent funded columns.

@@ -1,5 +1,5 @@
-# DATA ANALYSIS
-## Topic: *Crowdfunding* {: style="color: #333333;"}
+# Data Analysis
+### Topic: <span style="color:#333333;">Crowdfunding</span>
 
 <p>This project focuses on analyzing a dataset of 1,000 sample crowdfunding projects to uncover hidden trends and provide insights into the factors that contribute to their success or failure.</p>
 

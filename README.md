@@ -1,4 +1,4 @@
-<h1 align="left"> DATA ANALYSIS <br>*Topic: Crowdfunding* </h1> 
+<h1 align="left"> DATA ANALYSIS <br><i>Topic: Crowdfundin</i> </h1> 
 
 <p>This project focuses on analyzing a dataset of 1,000 sample crowdfunding projects to uncover hidden trends and provide insights into the factors that contribute to their success or failure.</p>
 
